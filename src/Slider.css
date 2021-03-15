@@ -1,0 +1,20 @@
+image{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+}
+#right{
+    width: 0;
+    height: 0;
+    position: absolute;
+    right:0;
+    top: 150;
+    display:inline-block;
+    border-top: 15px solid transparent;
+    border-bottom: 15px solid transparent;
+    border-left: 15px solid orange;
+    content: "";
+    padding: 5px 1.5em 3px 1.5em;
+  }
+ 

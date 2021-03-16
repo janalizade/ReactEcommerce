@@ -7,6 +7,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ### Search PanelText
 ![image](https://user-images.githubusercontent.com/73483327/111330436-36df6000-8670-11eb-8c26-14133ff18ccf.png)
 
+### Action Panel
+![image](https://user-images.githubusercontent.com/73483327/111330933-afdeb780-8670-11eb-91a9-9dc188cd164f.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
